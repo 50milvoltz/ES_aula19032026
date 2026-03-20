@@ -1,7 +1,7 @@
 # Documento de Casos de Uso e Diagramas de Atividade  
 Disciplina: Engenharia de Software  
-Aluno: Paulo Teixeira  
-
+Aluno: Paulo Henrique Teixeira  
+RA: 24000884
 ---
 
 # Introdução
